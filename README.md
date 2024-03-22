@@ -41,7 +41,7 @@ Identifying sales patterns and tracking key performance indicators (KPIs) crucia
 - **Systematic Approach to Report Building:** Developing a structured approach to devising report building plans, ensuring clarity and effectiveness.
 
 ### Reports Available:
-1. Customer Performance Report.pdf(
+1. [Customer Performance Report](https://github.com/KasettySivaGanesh/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 2. Division_level_report.pdf
 3. New Products 2021.pdf
 4. Top_&_Bottom_5_products.pdf
