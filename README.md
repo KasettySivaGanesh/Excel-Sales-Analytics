@@ -42,11 +42,11 @@ Identifying sales patterns and tracking key performance indicators (KPIs) crucia
 
 ### Reports Available:
 1. [Customer Performance Report](https://github.com/KasettySivaGanesh/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
-2. Division_level_report.pdf
-3. New Products 2021.pdf
-4. Top_&_Bottom_5_products.pdf
-5. Top_10_products_20vs21.pdf
-6. Top_5_countries_2021.pdf
-7. Market Performance vs Target.pdf
+2. [Division_level_report](https://github.com/KasettySivaGanesh/Excel-Sales-Analytics/blob/main/Division_level_report.pdf)
+3. [New Products 2021](https://github.com/KasettySivaGanesh/Excel-Sales-Analytics/blob/main/New%20Products%202021.pdf)
+4. [Top_&_Bottom_5_products](https://github.com/KasettySivaGanesh/Excel-Sales-Analytics/blob/main/Top_%26_Bottom_5_products.pdf)
+5. [Top_10_products_20vs21](https://github.com/KasettySivaGanesh/Excel-Sales-Analytics/blob/main/Top_10_products_20vs21.pdf)
+6. [Top_5_countries_2021](https://github.com/KasettySivaGanesh/Excel-Sales-Analytics/blob/main/Top_5_countries_2021.pdf)
+7. [Market Performance vs Target](https://github.com/KasettySivaGanesh/Excel-Sales-Analytics/blob/main/market_performance%20vs%20Target.pdf)
 
 These reports collectively offer comprehensive insights into various facets of sales performance, enabling businesses to make informed decisions and drive growth effectively.
